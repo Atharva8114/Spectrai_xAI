@@ -24,7 +24,5 @@ The aim is to create a transparent and trustworthy deep learning pipeline for me
 | Explainability | Grad-CAM |
 | Dataset | Brain MRI Dataset (Kaggle or local) |
 
----
 
-## 📂 Folder Structure
 
